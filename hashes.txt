@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Abar, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Abar, Vol. 2** (abar-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T03:56:26.093576 | `v1` | `fa9ff67da672c7df5f74fa6be9433192ca35c97ff3d9b54000252f8783f27c35` | `e1f04b0d02a411be9bff6d0424520f8d894674fbebc958d1acf60392dd24573e` | `2026-05-11_abar-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
