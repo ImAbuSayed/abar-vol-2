@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abar-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Abar, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abar-vol-2/) |
+| **Get License** | [Obtain a Music License for Abar, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abar-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> নিঃসঙ্গ এই পথে আজও খুঁজি আমি সেই রোশনাই
+> স্মৃতির এই জানালায় বারবার শুধু তোমাকেই চাই
+> হারিয়েছি নিজেকে আমি কোন এক অচেনা আঁধারে
+> তবুও এ হৃদয় যে শুধু তোমারই পথ চেয়ে মরে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
